@@ -1,0 +1,16 @@
+# Created by https://www.gitignore.io/api/java,maven,eclipse,java-web
+
+# IntelliJ
+/out/
+### Eclipse ###
+*/.gradle/
+*/.settings/
+*/bin/
+*/gradle
+*/target/
+*/.classpath
+*/.project
+*/.idea/
+*.idea
+*/out/
+*.iml
